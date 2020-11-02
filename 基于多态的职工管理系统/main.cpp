@@ -42,16 +42,6 @@ int main()
 		case 2://显示员工信息
 			wm.showInfo();
 			break;
-		case 3://删除员工
-			break;
-		case 4://修改员工信息
-			break;
-		case 5://查找员工
-			break;
-		case 6://排序
-			break;
-		case 7://清空文件
-			break;
 		default:
 			system("cls");
 			break;
